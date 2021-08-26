@@ -1,7 +1,7 @@
 # Use PyPA build to create Python CLI applications
 This repo is a deliberately simple example of how to create & package Python CLI
 applications using the [PyPA setuptools build
-tool]([setuptools](https://setuptools.readthedocs.io/)).
+tool](https://setuptools.readthedocs.io/).
 
 ## how to create a CLI package with Python
 Sample code that we're going to deploy is in `mypackage/mymodule.py`.
